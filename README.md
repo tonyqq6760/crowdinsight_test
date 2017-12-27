@@ -1,1 +1,1 @@
-The code include sentiment analysis and recommender system implementation
+The code includes the implementation of sentiment analysis and recommender system
